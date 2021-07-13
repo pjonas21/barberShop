@@ -8,7 +8,7 @@ Conta com seções de Home, Sobre, Serviços, Depoimentos e Contato, para que a 
 </p>
 
 
-# Tecnologias empregadas
+## Tecnologias empregadas
 
 - HTML
 - CSS
