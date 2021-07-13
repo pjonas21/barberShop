@@ -1,6 +1,6 @@
 # Projeto de página institucional
 
-Projeto de página institucional desenvolvido durante participação no NLW 6 da RocketSeat, para estudo de HTML, CSS e da linguagem JavaScript (básico).
+Projeto de página institucional desenvolvido durante participação no NLW 6 da RocketSeat, para estudo de HTML, CSS e da linguagem JavaScript (básico), baseando no uso de um design responsivo, para que se ajuste aos mais diversos tamanhos de telas de dispositivos, seja para desktop ou smartphones e tablets.
 Conta com seções de Home, Sobre, Serviços, Depoimentos e Contato, para que a empresa seja mostrada a seus clientes e a quem interessar seus serviços.
 
 <p align="center">
